@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jacopo Gennaro Esposito
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jacopo Gennaro
+last_name: Esposito
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Computer Science Student BSc.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of Computer Science, University of Salerno
+    url: https://www.di.unisa.it/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,22 +34,24 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/spcqqdev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jacopoesposito
+  - icon: brands/bluesky
+    url: https://bsky.app/@jacopoesposito.it
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/jacopogesposito
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=it-NX1kAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0005-2037-5584
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyber-Security
+  - Quantum Computing 
+  - Post-Quantum Cryptography 
+  - Blockchain 
+  - IoT
 
 education:
   - area: PhD Artificial Intelligence
