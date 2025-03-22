@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jacopo Gennaro Esposito is currently pursuing a Bachelor's degree in Computer Science at the Department of Computer Science, University of Salerno. In 2018, he attended the iOS Foundation Program (Essential and Advanced) in partnership with Apple Inc. and the Oracle Java SE 8 Programmer course, where he developed skills in mobile app development and software design principles. His research interests span across various domains, including computer networks, blockchain technology, Internet of Things (IoT) devices, post-quantum cryptography (PQC), and cybersecurity. He has been engaged in several innovative projects, particularly focusing on enhancing network security and integrating blockchain solutions for IoT devices.
