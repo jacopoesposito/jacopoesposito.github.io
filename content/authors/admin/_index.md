@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:j.esposito9@example.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/spcqqdev
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/bluesky
     url: https://bsky.app/@jacopoesposito.it
   - icon: brands/linkedin
-    url: https://www.linkedin.com/jacopogesposito
+    url: https://www.linkedin.com/in/jacopogesposito
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=it-NX1kAAAAJ
   - icon: academicons/orcid
