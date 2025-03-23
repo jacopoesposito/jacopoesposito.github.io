@@ -85,18 +85,22 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C Programming
         description: ''
         percent: 70
-        icon: code-bracket
-      - name: Data Science
+        icon: customs/code
+      - name: Cyber Security
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: customs/shield
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: customs/database
+      - name: Unix/Linux
+        description: ''
+        percent: 80
+        icon: customs/terminal
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -120,7 +124,7 @@ skills:
       - name: Korea 
         description: ''
         percent: 100
-        icon: customs/alphabet-korean
+        icon: customs/korea-flag
 
 languages:
   - name: Italian
@@ -137,31 +141,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: IOS Foundation Program (Essential)
+    url: ''
+    date: '2018-10-30'
+    awarder: Apple
+    icon: apple
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I studied the core concepts of iOS app development using Apple technologies. By the end, I was familiar with building user interfaces using UIKit, implementing app navigation with Navigation and TabBar Controllers, managing data with Core Data and file systems, and integrating Web Services using JSON. I also practiced project planning, teamwork, and problem-solving through Challenge-Based Learning, concluding with a team project and final presentation.
+  - title: IOS Foundation Program (Advanced)
+    url: ''
+    date: '2019-02-01'
+    awarder: Apple
+    icon: apple
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I studied the advanced concepts of watchOS app development using Apple technologies. By the end, I was familiar with building apps using Swift and SwiftUI, designing interfaces for Apple Watch with UI Controls, Pickers, and advanced layouts. I learned how to integrate features like Notifications, Audio, Video, Haptic Feedback, Localization, and Watch Connectivity. Additionally, I worked with Apple TV development and explored integration between watchOS and other iOS devices. Through Challenge-Based Learning and hands-on practice, I developed real-world skills in creating responsive, interactive apps across Apple’s ecosystem and concluded the course with a team project and final presentation.
 ---
 
 ## About Me
