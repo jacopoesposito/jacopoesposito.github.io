@@ -54,60 +54,31 @@ interests:
   - IoT
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science
+    institution: University of Salerno
+    date_start: ''
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.0/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Algorithm Design
+      - Operating Systems
+      - Computer Networks 
+      - Mobile Programming 
+      - Data Structures 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Java Junior Developer (Backend)
+    company_name: Web-Gate S.R.L.
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-12-11
+    date_end: 2018-03-15
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed and implemented RESTful APIs to support frontend applications and third-party integrations.
+      - Developed and maintained scalable backend systems using Java EE and related enterprise technologies.
+      - Participated in full stack development, covering backend logic, API layers, and frontend interfacing.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,7 +87,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -132,24 +103,34 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: customs/dog
+      - name: Reading 
+        description: ''
+        percent: 100
+        icon: customs/book
       - name: Photography
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: customs/photo
+      - name: Korea 
+        description: ''
+        percent: 100
+        icon: customs/alphabet-korean
 
 languages:
-  - name: English
+  - name: Italian
     percent: 100
+  - name: English
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
     percent: 25
+  - name: Korean
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
